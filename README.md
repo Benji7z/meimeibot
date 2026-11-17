@@ -20,6 +20,7 @@ python main.py
 ```
 
 Feel free to clear out the `guild_config.json` because I won't  
+I also left some AI Instructions in `data/AI_Instructions.txt` you may clear them out too, because I won't do that either
 and if you pay me I'll host your bot
 
 Feel free to contact me on discord `benji1278`  
