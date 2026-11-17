@@ -23,6 +23,7 @@ async def get_video_title(url):
 
     return await asyncio.to_thread(extract)
 
+# If you have a rasperry pi you can use this feature, otherwise you can't
 """
 def temperature_monitor():
     while True:
