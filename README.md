@@ -19,7 +19,7 @@ Launch bot with
 python main.py
 ```
 
-Feel free to clear out the `guild_config.json` because I won't
+Feel free to clear out the `guild_config.json` because I won't  
 and if you pay me I'll host your bot
 
 Feel free to contact me on discord `benji1278`  
