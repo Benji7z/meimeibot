@@ -14,8 +14,3 @@ BENJI_ID = 972496435570425897
 EXEMPT_ROLE = "Mei Mei Blacklist"
 DEBATER_ROLE = "Currently debating"
 HERETIC_ROLE = "Heretic"
-
-
-TOKEN_PATH = "token.token"
-GEMINI_API_KEY_PATH = "GEMINI_API_KEY"
-QUESTIONS_PATH = "/home/benjisrpi/Documents/FoC/src/meimeibot/questions.py"

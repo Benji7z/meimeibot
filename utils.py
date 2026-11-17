@@ -23,7 +23,7 @@ async def get_video_title(url):
 
     return await asyncio.to_thread(extract)
 
-
+"""
 def temperature_monitor():
     while True:
         try:
@@ -42,3 +42,4 @@ def temperature_monitor():
             print(f"Temperature monitor error: {e}")
 
         time.sleep(30)
+"""
