@@ -1,0 +1,5 @@
+discord.py
+google-genai
+edge-tts
+python-dotenv
+yt-dlp
