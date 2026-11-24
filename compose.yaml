@@ -1,0 +1,9 @@
+services:
+  meimeibot:
+    build: .
+    container_name: meimeibot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data

@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 import discord
 from discord.ext import commands
 
-from config import TOKEN_PATH
+#from config import TOKEN_PATH === OUTDATED
 
 load_dotenv()
 BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
